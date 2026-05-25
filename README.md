@@ -6,7 +6,7 @@ An advanced Machine Learning-based web application built using Streamlit that pr
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-🌐 **Live Demo:** [student-performace-prediction.streamlit.app](https://student-performace-prediction.streamlit.app/)
+🌐 **Live Demo:** [student-performace-prediction.streamlit.app](https://student-performance-system-7mrj25jkkpztwmnzm84jcu.streamlit.app) 
 
 
 # 🚀 Project Overview
@@ -26,12 +26,6 @@ The system uses Machine Learning algorithms and interactive data visualizations 
 ## 🎯 Main Dashboard
 
 ![Dashboard](images/dashboard.png)
-
----
-
-## 📊 Prediction Confidence
-
-![Prediction](images/prediction.png)
 
 ---
 
