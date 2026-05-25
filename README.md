@@ -31,19 +31,19 @@ The system uses Machine Learning algorithms and interactive data visualizations 
 
 ## 🔥 Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![feature importance](images/feature_importance.png)
 
 ---
 
 ## 🌡 Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![heatmap](images/heatmap.png)
 
 ---
 
 ## 📈 Dataset Analytics
 
-![Analytics](images/dataset analytics.png)
+![dataset analytics](images/dataset analytics.png)
 
 --- 
 
@@ -90,6 +90,7 @@ The system uses Machine Learning algorithms and interactive data visualizations 
 # 📂 Dataset
 
 Dataset Used : xAPI-Edu-Data.csv 
+
 Link : https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data 
 
 The dataset contains:
