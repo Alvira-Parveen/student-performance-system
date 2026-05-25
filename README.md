@@ -182,13 +182,6 @@ The project can be deployed using:
 
 ---
 
-# 👩‍💻 Developed By
-
-Alvira Parveen
-
----
-
-
 # 💡 Future Improvements
 
 - Deep Learning Integration
