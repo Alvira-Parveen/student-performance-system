@@ -31,7 +31,7 @@ The system uses Machine Learning algorithms and interactive data visualizations 
 
 ## 🔥 Feature Importance
 
-![feature importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
@@ -43,7 +43,7 @@ The system uses Machine Learning algorithms and interactive data visualizations 
 
 ## 📈 Dataset Analytics
 
-![dataset analytics](images/dataset analytics.png)
+![Dataset Analytics](images/dataset_analytics.png)
 
 --- 
 
